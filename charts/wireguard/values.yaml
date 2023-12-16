@@ -1,0 +1,2 @@
+wireguard:
+  image: linuxserver/wireguard:latest

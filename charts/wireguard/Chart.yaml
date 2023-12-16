@@ -1,0 +1,12 @@
+apiVersion: v2
+name: wireguard
+description: A Helm chart to deploy a the wireguard app
+type: application
+version: 0.0.1
+kubeVersion: ">=1.24.0-0"
+keywords:
+  wireguard
+home: https://github.com/jsmith97
+sources:
+  - https://github.com/jsmith97/helm-charts
+appVersion: 0.1.0
